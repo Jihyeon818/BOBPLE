@@ -236,3 +236,119 @@
 
 - 동일하게 DB설계도 주요 기능별로 나누었고, 36개의 테이블을 사용하였습니다.
 <img src="https://github.com/user-attachments/assets/d773105a-88a1-4fcf-a9e7-9854e08ecc52" alt="ERD">
+
+<h2>✋ 팀원 역할</h2>
+<table>
+    <thead>
+        <tr>
+            <th>팀원</th>
+            <th>역할</th>
+            <th>팀원</th>
+            <th>역할</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">
+                <img src="https://github.com/user-attachments/assets/a111e86f-ffc4-46ee-8568-c64d2fee47f6" alt="신지현" height="100">
+                <br/>
+                <strong>신지현</strong>
+                <br/>
+                <span style="font-size:50%">프론트엔드</span>
+            </td>
+            <td>
+                - 프론트 파일 구조 관리<br/>
+                - UIUX, 디자인(UI, 아이콘, 배너 등) 담당<br/>
+                - 메인, 레시피, 맛집, 마이페이지 제작<br/>
+                - Router 관리<br/>
+                - Slide 제작<br/>
+            </td>
+            <td align="center">
+                <img src="https://github.com/user-attachments/assets/13621dc5-52e4-44c7-aaa3-27dc4497bb22" alt="오민택" height="100">
+                <br/>
+                <strong>오민택</strong>
+                <br/>
+                <span style="font-size:50%">프론트엔드</span>
+            </td>
+            <td>
+                - UI/UX, 반응형 구조 담당<br/>
+                - 다크 모드 구현<br/>
+                - 포인트 상점, 게임, 채팅, 관리자 페이지 제작<br/>
+                - Router 관리<br/>
+                - 포인트 게임 제작<br/>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://github.com/user-attachments/assets/bd906318-0d61-4f64-8d3f-b0e16f6b7d7f" alt="전상민" height="100">
+                <br/>
+                <strong>전상민</strong>
+                <br/>
+                <span style="font-size:50%">백엔드</span>
+            </td>
+            <td>
+                - DB 구축<br/>
+                - 시큐리티 + JWT<br/>
+                - 소셜 로그인(네이버, 구글)<br/>
+                - 관리자 CRUD<br/>
+                - CI/CD<br/>
+            </td>
+            <td align="center">
+                <img src="https://github.com/user-attachments/assets/7584a702-2943-4d48-90d9-5ed1c7ef8540" alt="손유정" height="100">
+                <br/>
+                <strong>손유정</strong>
+                <br/>
+                <span style="font-size:50%">백엔드</span>
+            </td>
+            <td>
+                - 소셜 로그인 (카카오)<br/>
+                - 포인트 샵 CRUD<br/>
+                - OCR API 사용<br/>
+                - 인기 검색어<br/>
+                - CI/CD<br/>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://github.com/user-attachments/assets/ca0cade9-0718-443e-a670-d0e624d9c03d" alt="송예준" height="100">
+                <br/>
+                <strong>송예준</strong>
+                <br/>
+                <span style="font-size:50%">백엔드</span>
+            </td>
+            <td>
+                - 레시피 페이지, CRUD  구현<br/>
+                - 댓글, 좋아요 기능 구현<br/> 
+                - 하이퍼클로바 X API를  이용한 AI 레시피 추천<br/> 
+                - 사용자 맞춤 레시피 구현<br/> 
+            </td>
+            <td align="center">
+                <img src="https://github.com/user-attachments/assets/abcb3c18-f01c-49a9-a131-d5c8d975ba77" alt="조서영" height="100">
+                <br/>
+                <strong>조서영</strong>
+                <br/>
+                <span style="font-size:50%">백엔드</span>
+            </td>
+            <td>
+                - 맛집 페이지 구현<br/>
+                (Geolocation, 카카오맵, 네이버 서치 API)<br/>
+                - 맛집 리뷰 CRUD<br/> 
+                - 포인트 정책, 게임 백엔드<br/> 
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://github.com/user-attachments/assets/206c9c3f-6187-4bc7-8f63-11287155f659" alt="최재원" height="100">
+                <br/>
+                <strong>최재원</strong>
+                <br/>
+                <span style="font-size:50%">백엔드</span>
+            </td>
+            <td>
+                - 모임/ 채팅 페이지, CRUD 구현<br/>
+                - Node.js, Socket.io 기반 실시간 채팅 구현<br/> 
+                - SSE 기반 실시간 알림 구현<br/> 
+            </td>
+        </tr>
+    </tbody>
+</table>
